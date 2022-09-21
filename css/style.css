@@ -486,3 +486,17 @@ nav .hot::before {
         margin: 30px 0;
     }
 }
+@media screen and (max-width:767px){
+    .home .img_home img{
+        display: none;
+    }
+    .home{
+        padding: 70px 0;
+    }
+    .home .text_big_home h1{
+        font-size: 40px;
+    }
+    .img_watch_of_choice_one{
+        margin: 30px 0;
+    }
+}
